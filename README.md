@@ -75,6 +75,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+
 ![alt text](<Screenshot 2025-10-04 155603.png>)
 
 ## RESULT:
